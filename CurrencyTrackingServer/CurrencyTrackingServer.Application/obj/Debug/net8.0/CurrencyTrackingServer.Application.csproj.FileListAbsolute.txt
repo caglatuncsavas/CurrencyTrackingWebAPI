@@ -1,0 +1,15 @@
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\bin\Debug\net8.0\CurrencyTrackingServer.Application.deps.json
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\bin\Debug\net8.0\CurrencyTrackingServer.Application.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\bin\Debug\net8.0\CurrencyTrackingServer.Application.pdb
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\bin\Debug\net8.0\CurrencyTrackingServer.Domain.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\bin\Debug\net8.0\CurrencyTrackingServer.Domain.pdb
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.csproj.AssemblyReference.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.AssemblyInfoInputs.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.AssemblyInfo.cs
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.csproj.CoreCompileInputs.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\Currency.984C76F5.Up2Date
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\refint\CurrencyTrackingServer.Application.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\CurrencyTrackingServer.Application.pdb
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Application\obj\Debug\net8.0\ref\CurrencyTrackingServer.Application.dll

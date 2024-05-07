@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.webapi\\services\\autocurrencybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|solutionrelative:currencytrackingserver.webapi\\services\\autocurrencybackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|solutionrelative:currencytrackingserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.webapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|solutionrelative:currencytrackingserver.webapi\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.application\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|solutionrelative:currencytrackingserver.application\\hubs\\trackinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.application\\features\\currencies\\createcurrency\\createcurrencycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|solutionrelative:currencytrackingserver.application\\features\\currencies\\createcurrency\\createcurrencycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.application\\features\\currencies\\createcurrency\\createcurrencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0148898-E1BA-45D7-9367-8E94D22CF123}|CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj|solutionrelative:currencytrackingserver.application\\features\\currencies\\createcurrency\\createcurrencycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|c:\\currencytrackingwebapi\\currencytrackingserver\\currencytrackingserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF953C5-A16D-496F-92BF-91D8E55118F4}|CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj|solutionrelative:currencytrackingserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoCurrencyBackgroundService.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Services\\AutoCurrencyBackgroundService.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.WebAPI\\Services\\AutoCurrencyBackgroundService.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Services\\AutoCurrencyBackgroundService.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.WebAPI\\Services\\AutoCurrencyBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:49:06.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrackingHub.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Hubs\\TrackingHub.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.Application\\Hubs\\TrackingHub.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Hubs\\TrackingHub.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.Application\\Hubs\\TrackingHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:39:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:37:27.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCurrencyCommandHandler.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommandHandler.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommandHandler.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommandHandler.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:34:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCurrencyCommand.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommand.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommand.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommand.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.Application\\Features\\Currencies\\CreateCurrency\\CreateCurrencyCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:34:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrenciesController.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Controllers\\CurrenciesController.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.WebAPI\\Controllers\\CurrenciesController.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Controllers\\CurrenciesController.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.WebAPI\\Controllers\\CurrenciesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:25:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CurrencyTrackingServer.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CurrencyTrackingServer.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:25:08.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1511,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

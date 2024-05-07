@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj",
+        "projectName": "CurrencyTrackingServer.Application",
+        "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj",
+        "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
+        "outputPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\NuGet.Config",
+          "C:\\Users\\ercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "TS.Result": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj",
+        "projectName": "CurrencyTrackingServer.Domain",
+        "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj",
+        "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
+        "outputPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\NuGet.Config",
+          "C:\\Users\\ercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "TS.EntityFrameworkCore.GenericRepository": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\CurrencyTrackingServer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\CurrencyTrackingServer.Infrastructure.csproj",
+        "projectName": "CurrencyTrackingServer.Infrastructure",
+        "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\CurrencyTrackingServer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
+        "outputPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\NuGet.Config",
+          "C:\\Users\\ercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj"
+              },
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj",
+        "projectName": "CurrencyTrackingServer.WebAPI",
+        "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\CurrencyTrackingServer.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\ercan\\.nuget\\packages\\",
+        "outputPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\NuGet.Config",
+          "C:\\Users\\ercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Application\\CurrencyTrackingServer.Application.csproj"
+              },
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Domain\\CurrencyTrackingServer.Domain.csproj"
+              },
+              "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\CurrencyTrackingServer.Infrastructure.csproj": {
+                "projectPath": "C:\\CurrencyTrackingWebAPI\\CurrencyTrackingServer\\CurrencyTrackingServer.Infrastructure\\CurrencyTrackingServer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DefaultCorsPolicy": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

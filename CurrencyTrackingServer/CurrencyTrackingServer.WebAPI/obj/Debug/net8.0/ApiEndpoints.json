@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "CurrencyTrackingServer.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CurrencyTrackingServer.Application.Features.Auth.Login.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyTrackingServer.WebAPI.Controllers.CurrenciesController",
+    "Method": "Create",
+    "RelativePath": "api/Currencies/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CurrencyTrackingServer.Application.Features.Currencies.CreateCurrency.CreateCurrencyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

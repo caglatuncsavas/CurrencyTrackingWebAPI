@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6ssxJmk6n/A1l0j2Gd1ErtfO7Q7+rHHvs1fAn6wEBxA=",
+  "Source": "CurrencyTrackingServer.WebAPI",
+  "BasePath": "_content/CurrencyTrackingServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

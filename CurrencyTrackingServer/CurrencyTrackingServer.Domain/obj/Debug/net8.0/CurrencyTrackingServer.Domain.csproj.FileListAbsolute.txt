@@ -1,0 +1,12 @@
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\bin\Debug\net8.0\CurrencyTrackingServer.Domain.deps.json
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\bin\Debug\net8.0\CurrencyTrackingServer.Domain.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\bin\Debug\net8.0\CurrencyTrackingServer.Domain.pdb
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.csproj.AssemblyReference.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.AssemblyInfoInputs.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.AssemblyInfo.cs
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.csproj.CoreCompileInputs.cache
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\refint\CurrencyTrackingServer.Domain.dll
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\CurrencyTrackingServer.Domain.pdb
+C:\CurrencyTrackingWebAPI\CurrencyTrackingServer\CurrencyTrackingServer.Domain\obj\Debug\net8.0\ref\CurrencyTrackingServer.Domain.dll
